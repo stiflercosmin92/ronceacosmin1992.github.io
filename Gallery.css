@@ -1,6 +1,5 @@
 .u-section-1 {
-  background-image: url("images/50e0d44b4f53ad14f6da8c7dda793678153bdee757596c48732e78dd964acd50b8_1280.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/_DSC093820194000x60001.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -14,6 +13,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 592px;
   }
