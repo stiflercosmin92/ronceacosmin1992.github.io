@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("images/_DSC093820194000x6000.jpg");
+  background-image: url("images/_DSC093820194000x60001.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -37,15 +37,7 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 1rem;
-  margin: 0 0 0 71px;
-}
-
-.u-section-1 .u-btn-1 {
-  background-image: none;
-  border-style: none none solid;
-  font-weight: 700;
-  margin: 30px 0 0 auto;
-  padding: 0;
+  margin: 26px 0 0 71px;
 }
 
 .u-section-1 .u-text-2 {
@@ -57,6 +49,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 442px;
   }
@@ -75,7 +71,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 254px;
+    min-height: 287px;
   }
 
   .u-section-1 .u-container-layout-1 {
