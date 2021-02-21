@@ -6,28 +6,10 @@
   min-height: 718px;
 }
 
-.u-section-1 .u-social-icons-1 {
-  white-space: nowrap;
-  height: 32px;
-  min-height: 16px;
-  width: 74px;
-  min-width: 42px;
-  animation-duration: 1000ms;
-  margin: 91px 45px 0 auto;
-}
-
-.u-section-1 .u-icon-1 {
-  height: 32px;
-}
-
-.u-section-1 .u-icon-2 {
-  height: 32px;
-}
-
 .u-section-1 .u-text-1 {
   letter-spacing: 8px;
   font-size: 3.75rem;
-  margin: 203px 0 60px;
+  margin: 326px 0 60px;
 }
 
 @media (max-width: 1199px) {
@@ -40,7 +22,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 243px;
+    margin-top: 366px;
   }
 }
 
